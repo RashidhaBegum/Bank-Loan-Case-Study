@@ -67,7 +67,7 @@ Understanding the correlation between variables and the target variable can prov
 
 ### How to Proceed :
 
-1.Database Creation :  Download the dataset provided for the project to get started.
+1.Data Collection :  Download the dataset provided for the project to get started.
 
 2.Perform Analysis :   Use Excel to analyze the dataset and extract relevant insights.
 
