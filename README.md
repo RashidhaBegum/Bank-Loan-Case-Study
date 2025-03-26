@@ -35,28 +35,37 @@ The main aim of this project is to identify patterns that indicate if a customer
 ### A. Identify Missing Data and Deal with it Appropriately:
 As a data analyst, you come across missing data in the loan application dataset. It is essential to handle missing data effectively to ensure the accuracy of the analysis.
 
-### Task: Identify the missing data in the dataset and decide on an appropriate method to deal with it using Excel built-in functions and features.
+### Task:
+- Identify the missing data in the dataset and decide on an appropriate method to deal with it using Excel built-in functions and features.
 
 ### B. Identify Outliers in the Dataset:
 Outliers can significantly impact the analysis and distort the results. You need to identify outliers in the loan application dataset.
 
-### Task: Detect and identify outliers in the dataset using Excel statistical functions and features, focusing on numerical variables.
+### Task: 
+- Detect and identify outliers in the dataset using Excel statistical functions and features, focusing on numerical variables.
 
 ### C. Analyze Data Imbalance: 
 Data imbalance can affect the accuracy of the analysis, especially for binary classification problems. Understanding the data distribution is crucial for building reliable models.
 
-### Task: Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance using Excel functions.
+### Task: 
+- Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance using Excel functions.
 
-### D. Perform Univariate, Segmented Univariate, and Bivariate Analysis: To gain insights into the driving factors of loan default, it is important to conduct various analyses on consumer and loan attributes.
+### D. Perform Univariate, Segmented Univariate, and Bivariate Analysis: 
 
-### Task: Perform univariate analysis to understand the distribution of individual variables, segmented univariate analysis to compare variable distributions for different scenarios, and bivariate analysis to explore relationships between variables and the target variable using Excel functions and features.
+To gain insights into the driving factors of loan default, it is important to conduct various analyses on consumer and loan attributes.
+
+### Task: 
+- Perform univariate analysis to understand the distribution of individual variables, segmented univariate analysis to compare variable distributions for different scenarios, and bivariate analysis to explore relationships between variables and the target variable using Excel functions and features.
 
 
-### E. Identify Top Correlations for Different Scenarios: Understanding the correlation between variables and the target variable can provide insights into strong indicators of loan default.
+### E. Identify Top Correlations for Different Scenarios: 
 
-### Task: Segment the dataset based on different scenarios (e.g., clients with payment difficulties and all other cases) and identify the top correlations for each segmented data using Excel functions.
+Understanding the correlation between variables and the target variable can provide insights into strong indicators of loan default.
 
-How to Proceed :
+### Task: 
+- Segment the dataset based on different scenarios (e.g., clients with payment difficulties and all other cases) and identify the top correlations for each segmented data using Excel functions.
+
+### How to Proceed :
 
 1.Database Creation :  Download the dataset provided for the project to get started.
 
@@ -64,7 +73,7 @@ How to Proceed :
 
 3.Report Preparation : Compile your findings into a report (PDF or PPT format) for presentation purposes.
 
-Project Details:
+### Project Details:
 
 Project Description:
 
@@ -88,8 +97,16 @@ Result:
 
 The study provided actionable recommendations for optimizing loan approval processes and reducing default risks, demonstrating the value of data-driven decision-making in the banking sector.
 
-Drive Link:
+### Drive Link:
+
 [Click here to access the Bank Loan Case Study Report PDF ](https://drive.google.com/file/d/1BjsLh13IkVxgAd8XqgC_iw_YLbKf0WWv/view?usp=sharing)
-[Click here to access the B](./data-analytics-process.pdf)
-[Click here to access the Data Analytics Report](./data-analytics-process.pdf)
-[Click here to access the Data Analytics Report](./data-analytics-process.pdf)
+
+[Click here to access the Excel Dataset 1 ](https://docs.google.com/spreadsheets/d/1SqA29nV0MNZK-gNbi0JCR7zNlTNOlg_w/edit?usp=sharing&ouid=101204343036685814262&rtpof=true&sd=true)
+
+[Click here to access the Excel Dataset 2 ](https://docs.google.com/spreadsheets/d/18dCjncxQ5Tst27YOO6nKTDiWj6UhmjFb/edit?usp=sharing&ouid=101204343036685814262&rtpof=true&sd=true)
+
+[Click here to access the Excel Dataset 3 ](https://docs.google.com/spreadsheets/d/1_oEJTXjHwLOAU7iNdTCA4vpYrZ-aUQbV/edit?usp=sharing&ouid=101204343036685814262&rtpof=true&sd=true)
+
+[Click here to access the Power-Point Presentation](https://docs.google.com/presentation/d/1MP6SEf2__rH2GIKnrDY3N4vuqrOixOVZ/edit?usp=sharing&ouid=101204343036685814262&rtpof=true&sd=true)
+
+[Click here to access the Video Presentation](https://drive.google.com/file/d/1VTI3_4YZQhdn3Wc16i_erASdIBhvolwy/view?usp=sharing)
