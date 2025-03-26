@@ -110,3 +110,5 @@ The study provided actionable recommendations for optimizing loan approval proce
 [Click here to access the Power-Point Presentation](https://docs.google.com/presentation/d/1MP6SEf2__rH2GIKnrDY3N4vuqrOixOVZ/edit?usp=sharing&ouid=101204343036685814262&rtpof=true&sd=true)
 
 [Click here to access the Video Presentation](https://drive.google.com/file/d/1VTI3_4YZQhdn3Wc16i_erASdIBhvolwy/view?usp=sharing)
+
+For detailed analysis and related files, refer to the Report PDF provided in this repository.
